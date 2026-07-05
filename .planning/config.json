@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "created": "2026-07-03",
+  "workflow": {
+    "granularity": "coarse",
+    "commit_strategy": "atomic_per_task",
+    "yolo_mode": true,
+    "subagents_enabled": false
+  },
+  "runtime": "opencode",
+  "project": {
+    "name": "partitura-api",
+    "language": "Java 17",
+    "framework": "Spring Boot 4.1.0",
+    "build_tool": "Maven",
+    "database": "PostgreSQL",
+    "migrations": "Flyway"
+  }
+}
