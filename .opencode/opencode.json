@@ -1,0 +1,11 @@
+{
+  "$schema": "https://opencode.ai/config.json",
+  "permission": {
+    "read": {
+      "C:/Users/rafael/Desktop/partitura-api/.opencode/gsd-core/*": "allow"
+    },
+    "external_directory": {
+      "C:/Users/rafael/Desktop/partitura-api/.opencode/gsd-core/*": "allow"
+    }
+  }
+}
